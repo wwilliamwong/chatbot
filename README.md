@@ -9,16 +9,12 @@
   <img width="300" src= "https://user-images.githubusercontent.com/67185854/147375508-c3d25eb7-2253-490a-8918-104fbe52fd6c.jpeg" />
   
   </p>
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#main-page-logout">Main Page (Logout)</a></li>
-  </ol>
-</details>
 
 ## About The Project
 
-### Main Page (Logout)
-  <img width="1000" src="https://user-images.githubusercontent.com/67185854/147308797-09dae485-59fb-4c53-9c81-61dd27c1555b.png"/>
+<p align="center">
   
+<img width="470" alt="Screen Shot 2021-12-24 at 21 01 31" src="https://user-images.githubusercontent.com/67185854/147377821-9d1308e8-0642-4d94-9b19-3798560339ff.png">
+
+
 
